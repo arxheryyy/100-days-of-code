@@ -15,4 +15,11 @@ Thoughts:Overall pretty frustrated but hopefully I will do better tomorrow
 
 Link to work: https://github.com/arxheryyy/Personal-Website.git
 
+### Day 3 17 August 2020
+
+Progress:I have finished up all the things i wanted to do yesterday fixed alot off the problems but cant figure out how to use background-image in CSS and also still cant figure out how to get the hover to work on the nav bar 
+
+Thoughts:Feeling pretty good about this website cant really find anything else to add to it. Happy that i fixed alot of the problems that i ran into yesterday.
+
+Link to work: https://github.com/arxheryyy/Personal-Website.git
 
