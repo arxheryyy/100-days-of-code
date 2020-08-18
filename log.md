@@ -23,3 +23,10 @@ Thoughts:Feeling pretty good about this website cant really find anything else t
 
 Link to work: https://github.com/arxheryyy/Personal-Website.git
 
+### Day 4 18 August 2020
+
+Progress: I'm tring to re-write my IT Sales System terminal application that i did as a final prject for my Java module in Python to learn Python's syntax a little better as i want to dive into python machine learning soon, so i thought learning the fundamentals of python by re-creating this project will help me learn the ins and outs to python. I did alot of reading for the syntax of object and class oriented programming in python but it is still a little bit wierd to me as there are alot of unexpected errors in VS Code, when coding in python.
+
+Thoughts: Excited to learn Python maybe make a few games before diving into machine learning as it seems pretty intense.
+
+Link to work: https://github.com/arxheryyy/itSalesSystemPy.git
