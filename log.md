@@ -30,3 +30,10 @@ Progress: I'm tring to re-write my IT Sales System terminal application that i d
 Thoughts: Excited to learn Python maybe make a few games before diving into machine learning as it seems pretty intense.
 
 Link to work: https://github.com/arxheryyy/itSalesSystemPy.git
+
+### Day 5 19 August 2020
+Progress: I completed the main functonality of the program just not done implementing some of the restrictions for the computer IDs. I haven't added the restriction whereby it check to make sure that the Computer ID has 3 digits behind the starting letter, also I am abit interested to make this into a web application but ill see where this goes.
+
+Thoughts: Very happy that i got the hang of OOP in python although some of the funtions that I'm used to in Java is not around there are many work arounds that i found for python
+
+Link to work: https://github.com/arxheryyy/itSalesSystemPy.git
