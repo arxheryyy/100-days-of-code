@@ -37,3 +37,11 @@ Progress: I completed the main functonality of the program just not done impleme
 Thoughts: Very happy that i got the hang of OOP in python although some of the funtions that I'm used to in Java is not around there are many work arounds that i found for python
 
 Link to work: https://github.com/arxheryyy/itSalesSystemPy.git
+
+### Day 6 20 August 2020
+Progress: I figured out how to have multiple conditions for if statements and also change the checking of the IDs to be a function instead so that the code looks cleaner currently researching on how to check the IDs in the array so that there will be not matching IDs 
+
+Thoughts: Pretty happy that i can get python even though the syntax is very strange to me as it doesnt have -> {} these and everything depends on indentation i would still rather -> {} these as im more used to it and it is easier to read
+
+Link to work: https://github.com/arxheryyy/itSalesSystemPy.git
+
