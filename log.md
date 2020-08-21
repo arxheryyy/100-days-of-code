@@ -45,3 +45,10 @@ Thoughts: Pretty happy that i can get python even though the syntax is very stra
 
 Link to work: https://github.com/arxheryyy/itSalesSystemPy.git
 
+### Day 7 21 August 2020
+progress: I started using tkinter as a GUI frame work to make this terminal application into a GUI application and also sorted out all the problems with the checking of Computer IDs
+
+Thoughts: Excited to try out this GUI framework to learn how to create GUI python applications
+
+Link to work : https://github.com/arxheryyy/itSalesSystemPy.git
+
