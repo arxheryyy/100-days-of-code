@@ -52,3 +52,9 @@ Thoughts: Excited to try out this GUI framework to learn how to create GUI pytho
 
 Link to work : https://github.com/arxheryyy/itSalesSystemPy.git
 
+### Day 8 22 August 2020
+Progress: I am done with the first command with is to loop through an object array and print out the attributes in GUI which was pretty tricky but i got it done also i did the quit button but that was simple. tkinter is very tricky to work with but i think i can get through it
+
+Thoughts: a little frustrated as it took so long just to figure out a simple feature as the syntax is janky and the official website shows the wrong syntax so i had to rely on stack overflow.
+
+Link to work : https://github.com/arxheryyy/itSalesSystemPy.git
