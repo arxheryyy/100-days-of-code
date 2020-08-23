@@ -58,3 +58,10 @@ Progress: I am done with the first command with is to loop through an object arr
 Thoughts: a little frustrated as it took so long just to figure out a simple feature as the syntax is janky and the official website shows the wrong syntax so i had to rely on stack overflow.
 
 Link to work : https://github.com/arxheryyy/itSalesSystemPy.git
+
+### Day 9 23 August 2020
+Progress: I am super happy with the progress today even though it took me 30-45 minutes to figure out how to get user input using tkinter's entry function i finally got it functioning. I was on the brink on giving up but thank God I pushed through as any programmer or developer would know when you finally get something to work the sense of satisfaction is like you're in cloud 9.
+
+Thoughts: Super happy with what i did today even though it was very frustrating at the start, when i figured it out i felt a lift in my spirits as i hit the run button and see that its working, i need to work on the styling and also impliment the Computer ID checking into the GUI version of this application.
+
+Link to work : https://github.com/arxheryyy/itSalesSystemPy.git 
