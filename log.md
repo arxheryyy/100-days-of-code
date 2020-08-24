@@ -65,3 +65,10 @@ Progress: I am super happy with the progress today even though it took me 30-45 
 Thoughts: Super happy with what i did today even though it was very frustrating at the start, when i figured it out i felt a lift in my spirits as i hit the run button and see that its working, i need to work on the styling and also impliment the Computer ID checking into the GUI version of this application.
 
 Link to work : https://github.com/arxheryyy/itSalesSystemPy.git 
+
+### Day 10 24 August 2020
+Progress: Finished up the bits and pieces of the GUI and it is fully functional now but it isnt very pretty got all the ID checking in place and I added an error messsage that shows up if the computer ID doesn't match the requirements
+
+Thoughts: Happy that I have finally finished this project, but kind of lost for what to do next. I will find another project to work on next but thanks to this challenge I finally finished something I wanted to do as usually once I run into an error that I can't wrap my head around I would usually find something else to do and forget about the porject.
+
+Link to work : https://github.com/arxheryyy/itSalesSystemPy.git 
