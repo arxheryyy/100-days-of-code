@@ -72,3 +72,10 @@ Progress: Finished up the bits and pieces of the GUI and it is fully functional 
 Thoughts: Happy that I have finally finished this project, but kind of lost for what to do next. I will find another project to work on next but thanks to this challenge I finally finished something I wanted to do as usually once I run into an error that I can't wrap my head around I would usually find something else to do and forget about the porject.
 
 Link to work : https://github.com/arxheryyy/itSalesSystemPy.git 
+
+### Day 11 25 August 2020
+progrss : Started on a new project that will help me keep my downloads folder organised by the date that it was created, Figured out how to get all the files from a directory and put it into a list/array but i can't figure out how to get the time that it was created.
+
+Thoughts: Excited for this new project it is actually useful to me this time and can't wait for a clutter free downloads folder
+
+Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
