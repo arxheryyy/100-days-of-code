@@ -79,3 +79,10 @@ progrss : Started on a new project that will help me keep my downloads folder or
 Thoughts: Excited for this new project it is actually useful to me this time and can't wait for a clutter free downloads folder
 
 Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
+
+### Day 12 26 August 2020
+progress : I have figured out how to get the dates that the files are created and the paths of the files but I cannot find out how to check if theres a file that matches the month and year then move it into the folder
+
+thoughts: having fun solving this problem cant wait till I can actually finish this project.
+
+Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
