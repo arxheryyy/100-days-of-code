@@ -83,6 +83,14 @@ Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
 ### Day 12 26 August 2020
 progress : I have figured out how to get the dates that the files are created and the paths of the files but I cannot find out how to check if theres a file that matches the month and year then move it into the folder
 
-thoughts: having fun solving this problem cant wait till I can actually finish this project.
+Thoughts: having fun solving this problem cant wait till I can actually finish this project.
 
 Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
+
+### Day 13 27 August 2020
+Progress: I have made all the individual files into datetime objects so that i can get the month that it was created but the if condition keeps returning false although it is pretty much 8 == 8 still cant figure that out.
+
+Thoughts: a little frustrated at this but i can't wait to finish this project
+
+Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
+
