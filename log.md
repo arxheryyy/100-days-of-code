@@ -94,3 +94,7 @@ Thoughts: a little frustrated at this but i can't wait to finish this project
 
 Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
 
+### Day 14 28 August 2020
+Progress: Took an off day today but i quickly ran through the first chapter of freeCodeCamp Html course
+
+thoughts: didn't have much time today so I did this while im in class.
