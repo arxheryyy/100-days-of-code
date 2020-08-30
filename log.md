@@ -98,3 +98,8 @@ Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
 Progress: Took an off day today but i quickly ran through the first chapter of freeCodeCamp Html course
 
 thoughts: didn't have much time today so I did this while im in class.
+
+### Day 15 30 August 2020
+Progress: It Works! but it only moves files but not folders im trying to seperate the files that is organising the files and the folders that i have unzipped when i downloaded it.
+
+Thoughts: took a short weekend break because i was busy with work but im back and finally got the code to do what i want it to do.
