@@ -105,3 +105,11 @@ Progress: It Works! but it only moves files but not folders im trying to seperat
 Thoughts: took a short weekend break because i was busy with work but im back and finally got the code to do what i want it to do.
 
 Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
+
+### Day 16 31 August 2020
+Progress: I got it to work finally thank god for the debugger in vs code it was the only reason I could have got it to work.
+
+Thoughts: Super happy about it next i will figure out how to sort by year too.
+
+Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
+
