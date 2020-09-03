@@ -113,3 +113,10 @@ Thoughts: Super happy about it next i will figure out how to sort by year too.
 
 Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
 
+### Day 17 3 September 2020
+progress: didn't get much done today just thinking of ways to make it more user friendly and make it so that if the file is more than a year old then it will sort it all into a year folder where inside there will be months folders but at the same time keep the current years stuff organised in months for ease of access.
+
+Thoughts: I have to find out a solution before i start coding if not i will not get anything done.
+
+Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
+
