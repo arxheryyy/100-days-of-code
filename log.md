@@ -120,9 +120,16 @@ Thoughts: I have to find out a solution before i start coding if not i will not 
 
 Link to work : https://github.com/arxheryyy/OrganisingDownloads.git
 
-### Day 18 15 September 2020
+### Day 18 14 September 2020
 Progress: I started on created a budget tracker app planning on making this into a flutter or web application maybe publish it on the app store in the future but right now im working on the terminal application.
 
 Thoughts:I took a long break from this challenge as i have been extremely busy with exams and test but happy to be back!
+
+Link to work : https://github.com/arxheryyy/CashTracker.git
+
+### Day 19 15 September 2020
+Progress: I added a date function that grabs the local time of the host and adds a date stamp to the comments so it will be easier to keep track of when the money was spent.
+
+Thoughts:Short one today just did it in class while waiting for my classmates to finish their work.
 
 Link to work : https://github.com/arxheryyy/CashTracker.git
